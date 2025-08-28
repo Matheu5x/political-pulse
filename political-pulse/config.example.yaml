@@ -1,0 +1,18 @@
+# Copy to config.yaml and edit
+google_trends:
+  enabled: true
+  kw_list: ["economy", "crime", "immigration", "healthcare", "education"]
+  geo: "US"
+  timeframe: "now 7-d"
+
+reddit:
+  enabled: true
+  client_id: "KKn6NTirrQLW47Li6vt2AA"
+  client_secret: "PHEMWqUuBSxsx5XrxOJevTh5B9UARQ"
+  user_agent: "political-pulse/0.1 by spiceyEmu"
+  subreddits: ["politics", "Conservative", "democrats", "NeutralPolitics"]
+  limit_per_sub: 50
+
+output:
+  processed_csv: "data/processed/items.csv"
+  pdf_dir: "reports"

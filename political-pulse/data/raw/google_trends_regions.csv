@@ -1,0 +1,256 @@
+state,keyword,value
+Alabama,economy,8
+Alabama,crime,23
+Alabama,immigration,4
+Alabama,healthcare,23
+Alabama,education,42
+Alaska,economy,8
+Alaska,crime,31
+Alaska,immigration,5
+Alaska,healthcare,17
+Alaska,education,39
+Arizona,economy,10
+Arizona,crime,21
+Arizona,immigration,6
+Arizona,healthcare,29
+Arizona,education,34
+Arkansas,economy,8
+Arkansas,crime,21
+Arkansas,immigration,5
+Arkansas,healthcare,23
+Arkansas,education,43
+California,economy,11
+California,crime,21
+California,immigration,9
+California,healthcare,23
+California,education,36
+Colorado,economy,10
+Colorado,crime,24
+Colorado,immigration,7
+Colorado,healthcare,25
+Colorado,education,34
+Connecticut,economy,6
+Connecticut,crime,16
+Connecticut,immigration,7
+Connecticut,healthcare,37
+Connecticut,education,34
+Delaware,economy,5
+Delaware,crime,23
+Delaware,immigration,6
+Delaware,healthcare,29
+Delaware,education,37
+District of Columbia,economy,10
+District of Columbia,crime,25
+District of Columbia,immigration,13
+District of Columbia,healthcare,18
+District of Columbia,education,34
+Florida,economy,9
+Florida,crime,21
+Florida,immigration,9
+Florida,healthcare,30
+Florida,education,31
+Georgia,economy,9
+Georgia,crime,22
+Georgia,immigration,6
+Georgia,healthcare,29
+Georgia,education,34
+Hawaii,economy,12
+Hawaii,crime,21
+Hawaii,immigration,9
+Hawaii,healthcare,20
+Hawaii,education,38
+Idaho,economy,8
+Idaho,crime,27
+Idaho,immigration,5
+Idaho,healthcare,22
+Idaho,education,38
+Illinois,economy,9
+Illinois,crime,24
+Illinois,immigration,6
+Illinois,healthcare,26
+Illinois,education,35
+Indiana,economy,12
+Indiana,crime,22
+Indiana,immigration,5
+Indiana,healthcare,24
+Indiana,education,37
+Iowa,economy,7
+Iowa,crime,22
+Iowa,immigration,5
+Iowa,healthcare,27
+Iowa,education,39
+Kansas,economy,8
+Kansas,crime,22
+Kansas,immigration,5
+Kansas,healthcare,25
+Kansas,education,40
+Kentucky,economy,6
+Kentucky,crime,19
+Kentucky,immigration,4
+Kentucky,healthcare,31
+Kentucky,education,40
+Louisiana,economy,8
+Louisiana,crime,22
+Louisiana,immigration,5
+Louisiana,healthcare,28
+Louisiana,education,37
+Maine,economy,6
+Maine,crime,23
+Maine,immigration,6
+Maine,healthcare,26
+Maine,education,39
+Maryland,economy,6
+Maryland,crime,22
+Maryland,immigration,8
+Maryland,healthcare,31
+Maryland,education,33
+Massachusetts,economy,8
+Massachusetts,crime,22
+Massachusetts,immigration,9
+Massachusetts,healthcare,28
+Massachusetts,education,33
+Michigan,economy,6
+Michigan,crime,26
+Michigan,immigration,5
+Michigan,healthcare,27
+Michigan,education,36
+Minnesota,economy,5
+Minnesota,crime,26
+Minnesota,immigration,5
+Minnesota,healthcare,26
+Minnesota,education,38
+Mississippi,economy,8
+Mississippi,crime,21
+Mississippi,immigration,3
+Mississippi,healthcare,28
+Mississippi,education,40
+Missouri,economy,7
+Missouri,crime,24
+Missouri,immigration,4
+Missouri,healthcare,29
+Missouri,education,36
+Montana,economy,7
+Montana,crime,26
+Montana,immigration,3
+Montana,healthcare,29
+Montana,education,35
+Nebraska,economy,8
+Nebraska,crime,20
+Nebraska,immigration,7
+Nebraska,healthcare,25
+Nebraska,education,40
+Nevada,economy,9
+Nevada,crime,24
+Nevada,immigration,8
+Nevada,healthcare,24
+Nevada,education,35
+New Hampshire,economy,7
+New Hampshire,crime,26
+New Hampshire,immigration,5
+New Hampshire,healthcare,27
+New Hampshire,education,35
+New Jersey,economy,8
+New Jersey,crime,20
+New Jersey,immigration,9
+New Jersey,healthcare,25
+New Jersey,education,38
+New Mexico,economy,9
+New Mexico,crime,22
+New Mexico,immigration,6
+New Mexico,healthcare,26
+New Mexico,education,37
+New York,economy,8
+New York,crime,19
+New York,immigration,8
+New York,healthcare,30
+New York,education,35
+North Carolina,economy,8
+North Carolina,crime,23
+North Carolina,immigration,5
+North Carolina,healthcare,25
+North Carolina,education,39
+North Dakota,economy,7
+North Dakota,crime,23
+North Dakota,immigration,7
+North Dakota,healthcare,22
+North Dakota,education,41
+Ohio,economy,7
+Ohio,crime,23
+Ohio,immigration,4
+Ohio,healthcare,27
+Ohio,education,39
+Oklahoma,economy,8
+Oklahoma,crime,22
+Oklahoma,immigration,5
+Oklahoma,healthcare,22
+Oklahoma,education,43
+Oregon,economy,9
+Oregon,crime,27
+Oregon,immigration,8
+Oregon,healthcare,23
+Oregon,education,33
+Pennsylvania,economy,9
+Pennsylvania,crime,24
+Pennsylvania,immigration,6
+Pennsylvania,healthcare,25
+Pennsylvania,education,36
+Rhode Island,economy,7
+Rhode Island,crime,25
+Rhode Island,immigration,7
+Rhode Island,healthcare,29
+Rhode Island,education,32
+South Carolina,economy,9
+South Carolina,crime,22
+South Carolina,immigration,4
+South Carolina,healthcare,21
+South Carolina,education,44
+South Dakota,economy,7
+South Dakota,crime,22
+South Dakota,immigration,4
+South Dakota,healthcare,27
+South Dakota,education,40
+Tennessee,economy,8
+Tennessee,crime,22
+Tennessee,immigration,4
+Tennessee,healthcare,33
+Tennessee,education,33
+Texas,economy,10
+Texas,crime,19
+Texas,immigration,7
+Texas,healthcare,26
+Texas,education,38
+Utah,economy,7
+Utah,crime,18
+Utah,immigration,6
+Utah,healthcare,28
+Utah,education,41
+Vermont,economy,8
+Vermont,crime,22
+Vermont,immigration,5
+Vermont,healthcare,21
+Vermont,education,44
+Virginia,economy,9
+Virginia,crime,23
+Virginia,immigration,8
+Virginia,healthcare,25
+Virginia,education,35
+Washington,economy,9
+Washington,crime,27
+Washington,immigration,9
+Washington,healthcare,26
+Washington,education,29
+West Virginia,economy,5
+West Virginia,crime,21
+West Virginia,immigration,2
+West Virginia,healthcare,24
+West Virginia,education,48
+Wisconsin,economy,7
+Wisconsin,crime,26
+Wisconsin,immigration,5
+Wisconsin,healthcare,30
+Wisconsin,education,32
+Wyoming,economy,7
+Wyoming,crime,27
+Wyoming,immigration,4
+Wyoming,healthcare,22
+Wyoming,education,40

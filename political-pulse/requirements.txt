@@ -1,0 +1,22 @@
+# Core
+pandas>=2.0
+numpy>=1.25
+python-dotenv>=1.0
+pyyaml>=6.0
+
+# ETL (comment out if not using live fetch)
+pytrends>=4.9.2
+praw>=7.7.1
+
+# NLP
+nltk>=3.9
+vaderSentiment>=3.3.2
+
+# PDF
+reportlab>=4.2
+
+# Web (optional dashboard)
+Flask>=3.0
+
+# Similarity / embeddings (optional extension)
+scikit-learn>=1.3
