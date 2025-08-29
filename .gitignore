@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Envs & tooling
+venv/
+.venv/
+.env
+.env.*
+.python-version
+
+# Editors/OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Build/output
+dist/
+build/
+reports/*.html
+
+# Data (optional – keep if you want sample data tracked)
+data/raw/
+data/processed/
+
+# Config with secrets (only if it has secrets)
+config.yaml
